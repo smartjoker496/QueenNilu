@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['254759849927'] //ur owner number
+global.ownername = "smartjoker" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'smartjoker' //ur bot name
+global.wm = "SMARTJOKER" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -33,7 +33,7 @@ global.READ_MASSAGE = true
 global.VOICE_REPLY = true
 
 // Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 
 // Inbox massage block PM block
 global.INBOX_BLOCK = false
